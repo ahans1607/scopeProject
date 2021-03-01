@@ -16,7 +16,7 @@ console.log(rudePerson2("I love dogs")); // prints "I yo love yo dogs"
 
 ***********************************************************************/
 
-// your code here!
+
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 

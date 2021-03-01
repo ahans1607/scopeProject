@@ -27,8 +27,9 @@ Example 4:
   console.log(threeDays()); // prints "Happy New Year!"
 
 ***********************************************************************/
-
-// your code here
+countDownTimer = (n) => {
+  
+}
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
 
